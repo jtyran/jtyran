@@ -8,7 +8,7 @@
 <ul>
 <li><b>Time Series Forecasting and Predictive Modeling</b>
   <ul>
-    <li><a href="https://github.com/jtyran/Predictive-Modeling-of-NFL-Play-by-Play-Trends">Forecasting NFL Play-by-Play Trends (Python)</a></li>
+    <li><a href="https://github.com/jtyran/Predictive-Modeling-of-NFL-Play-by-Play-Trends">Forecasting NFL Play-by-Play Trends (Python) <span style="color: red;">[NEW]</span></a></li>
     <li><a href="https://github.com/jtyran/Structures-Matrices-Practice">Foundations: Data Structures and Modeling Practice (Python)</a></li>
     <li><a href="https://github.com/jtyran/Structures-Matrices-Practice/tree/main/log-regression">Logistic Regression: Social Media Ads (Python)</a></li>
     <li><a href="https://github.com/jtyran/Structures-Matrices-Practice/tree/main/build">Logistic Regression: Iris Dataset (Python)</a></li>
