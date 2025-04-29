@@ -1,28 +1,53 @@
-<h1>Hi, I'm Tyran! <br/><a href="https://github.com/jtyran">Analyst</a>, <a href="https://www.linkedin.com/in/tyranjohnson/">Business Analyst</a></h1>
+<h1>Hi, I'm Tyran!<br/>
+<a href="https://github.com/jtyran">Data Analyst</a> | 
+<a href="https://www.linkedin.com/in/tyranjohnson/">Business Analyst</a>
+</h1>
 
-<h2>👨‍💻 Exploratory Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analytics and Forecasting Projects</h2>
 
-- <b>Data Structures and Matrices Practice</b>
-  - [Practicing Data Models in Python](https://github.com/jtyran/Structures-Matrices-Practice)
-  - [Practicing Log Regression Using Social Media Ads](https://github.com/jtyran/Structures-Matrices-Practice/tree/main/log-regression) <b></i>
-  - [Practicing Log Regression Using IRIS Model](https://github.com/jtyran/Structures-Matrices-Practice/tree/main/build) <b></i>
-  - [Practicing Decision Trees in Python](https://github.com/jtyran/Structures-Matrices-Practice/tree/main/decision-tree) <b></i>
-  
-- <b>Power BI</a> / Tableau</b>
-  - [Visualizing Baseball Metrics in Power BI](https://github.com/jtyran/PowerBI-Data-Analytics-Projects/tree/main/Visualizing%20Baseball%20Metrics%20in%20Power%20BI)
-  - [Sample Store Sales Dashboard](https://github.com/jtyran/Sample-Store-Sales)
-- <b>Pyhon</b>
-  - [NFL: Deep Dive into Analysis](https://github.com/jtyran/NFL-Analytics-Project)
-  - [Examining NFL Special Teams Tracking Data (BIG DATA)](https://github.com/jtyran/NFL-Special-Teams-Key-Performers-Project)
-- <b>R</b>
-  - [HCHSA Social Media KPI Analysis](https://github.com/jtyran/HCHSA-Social-Media-Performance-Project)
+<ul>
+<li><b>Time Series Forecasting and Predictive Modeling</b>
+  <ul>
+    <li><a href="https://github.com/jtyran/Predictive-Modeling-of-NFL-Play-by-Play-Trends">Forecasting NFL Play-by-Play Trends (Python)</a></li>
+    <li><a href="https://github.com/jtyran/Structures-Matrices-Practice">Foundations: Data Structures and Modeling Practice (Python)</a></li>
+    <li><a href="https://github.com/jtyran/Structures-Matrices-Practice/tree/main/log-regression">Logistic Regression: Social Media Ads (Python)</a></li>
+    <li><a href="https://github.com/jtyran/Structures-Matrices-Practice/tree/main/build">Logistic Regression: Iris Dataset (Python)</a></li>
+    <li><a href="https://github.com/jtyran/Structures-Matrices-Practice/tree/main/decision-tree">Decision Trees: Predictive Analysis (Python)</a></li>
+  </ul>
+</li>
 
-<h2> 🤳 Connect with me:</h2>
+<li><b>Data Visualization: Power BI and Tableau</b>
+  <ul>
+    <li><a href="https://github.com/jtyran/PowerBI-Data-Analytics-Projects/tree/main/Visualizing%20Baseball%20Metrics%20in%20Power%20BI">Visualizing Baseball Metrics (Power BI)</a></li>
+    <li><a href="https://github.com/jtyran/Sample-Store-Sales">Sample Store Sales Dashboard (Power BI)</a></li>
+  </ul>
+</li>
 
-[<img align="left" alt="TyranJohnson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TyranJohnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TyranJohnson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<li><b>Python Projects</b>
+  <ul>
+    <li><a href="https://github.com/jtyran/NFL-Analytics-Project">NFL Play-by-Play Deep Dive Analysis</a></li>
+    <li><a href="https://github.com/jtyran/NFL-Special-Teams-Key-Performers-Project">Special Teams Tracking Analysis (Big Data)</a></li>
+  </ul>
+</li>
 
+<li><b>R Projects</b>
+  <ul>
+    <li><a href="https://github.com/jtyran/HCHSA-Social-Media-Performance-Project">Social Media KPI Analysis (R)</a></li>
+  </ul>
+</li>
+</ul>
+
+<h2>🤝 Connect with Me</h2>
+
+<p>
+<a href="https://twitter.com/SportsHeist"><img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/tyranjohnson/"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/_tysgraphics/"><img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
+
+<br/>
+
+<!-- Footer Links -->
 [twitter]: https://twitter.com/SportsHeist
 [instagram]: https://www.instagram.com/_tysgraphics/
-[linkedin]: https://linkedin.com/in/tyranjohnson
+[linkedin]: https://www.linkedin.com/in/tyranjohnson/
