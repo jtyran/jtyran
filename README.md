@@ -20,6 +20,7 @@
   <ul>
     <li><a href="https://github.com/jtyran/PowerBI-Data-Analytics-Projects/tree/main/Visualizing%20Baseball%20Metrics%20in%20Power%20BI">Visualizing Baseball Metrics (Power BI)</a></li>
     <li><a href="https://github.com/jtyran/Sample-Store-Sales">Sample Store Sales Dashboard (Tableau)</a></li>
+    <li><a href="https://github.com/jtyran/MLB-Baseball-Performance-Dashboard">MLB Baseball Performance Dashboard (Power BI)</a></li>
   </ul>
 </li>
 
