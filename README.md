@@ -34,6 +34,7 @@
 <li><b>R Projects</b>
   <ul>
     <li><a href="https://github.com/jtyran/HCHSA-Social-Media-Performance-Project">Social Media KPI Analysis (R)</a></li>
+    <li><a href="https://github.com/jtyran/BorgWarner-Friction-Plate-Validation-Testing">Manufacturing Quality Prediction (R)</a></li>
   </ul>
 </li>
 </ul>
