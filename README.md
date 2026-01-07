@@ -26,7 +26,6 @@
 
 <li><b>Python Projects</b>
   <ul>
-    <li><a href="https://github.com/jtyran/NFL-Analytics-Project">Deep Dive into NFL Analytics</a></li>
     <li><a href="https://github.com/jtyran/NFL-Special-Teams-Key-Performers_Project">Special Teams Tracking Analysis (Big Data)</a></li>
   </ul>
 </li>
