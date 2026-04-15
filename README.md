@@ -41,9 +41,9 @@
 <h2>🤝 Connect with Me</h2>
 
 <p>
-<a href="https://twitter.com/SportsHeist"><img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/tyranjohnson/"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/_tysgraphics/"><img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/SportsHeist"><img align="left" alt="Twitter" width="30px" src="https://cdn.simpleicons.org/x/blue" /></a>
+<a href="https://www.linkedin.com/in/tyranjohnson/"><img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/_tysgraphics/"><img align="left" alt="Instagram" width="30px" src="https://cdn.simpleicons.org/instagram/blue" /></a>
 </p>
 
 <br/>
